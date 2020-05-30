@@ -5,12 +5,12 @@
 ## Getting Started
 
 ```
-gem install dec2hex
+gem install Dec2Hex
 
 ```
 
 ```ruby
-    require 'dec2hex'
+    require 'dectohex'
 ```
 
 ## Convert Decimal to hexadecimal
